@@ -1,0 +1,12 @@
+.seats {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-right: 5px;
+    justify-content: flex-start;  
+    color:black;
+  }
+  .seat{
+      padding-right: 50px;
+  }
+  
